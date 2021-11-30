@@ -15,3 +15,14 @@
 - quick sort
 - heap sort
 - merge sort
+
+## Tree
+
+- preOrder
+- inOrder
+- postOrder
+
+## Graph
+
+- BFS
+- DFS
